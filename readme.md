@@ -1,6 +1,6 @@
 # @yonyou-cloud/eslint-config
 
-> eslint-config for yonyou.
+> eslint-config for yonyou-cloud.
 
 ## Usage
 
@@ -27,7 +27,7 @@ module.exports = {
 
 ## Refs
 
-+ [elsint](http:eslint.org)
++ [eslint](http:eslint.org)
 + [standard](https://standardjs.com)
 + [babel-eslint](https://github.com/babel/babel-eslint)
 + [eslint-plugin-react](https://github.com/yannickcr/eslint-plugin-react)
