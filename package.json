@@ -17,7 +17,9 @@
     "eslint-plugin-vue": "^3.10.0",
     "standard": "^10.0.3"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "eslint": "^4.7.0"
+  },
   "keywords": [
     "style guide",
     "lint",
