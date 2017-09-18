@@ -8,6 +8,19 @@
     "lint:fix": "eslint -c ./base.js --fix --ext .js,.vue --ignore-pattern bad.* .",
     "test": "echo 'Error: no test specified'"
   },
+  "bugs": {
+    "url": "https://github.com/yonyou-cloud/eslint-config/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/yonyou-cloud/eslint-config.git"
+  },
+  "author": {
+    "email": "hh_2013@foxmail.com",
+    "name": "薛定谔的猫",
+    "url": "https://github.com/Aladdin-ADD"
+  },
+
   "peerDependences": {
     "eslint": "^4.7.0"
   },
