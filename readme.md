@@ -1,9 +1,11 @@
 # @yonyou-cloud/eslint-config
 
+> eslint-config for yonyou.
+
 ## Usage
 
 ```bash
-npm i @yonyou-cloud/eslint-config -D
+npm i eslint @yonyou-cloud/eslint-config -D
 ```
 
 ```js
@@ -25,6 +27,8 @@ module.exports = {
 
 ## Included
 
++ babel-eslint
 + eslint:recommended
 + standard
++ eslint-plugin-react
 + eslint-plugin-vue
