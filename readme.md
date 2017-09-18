@@ -25,10 +25,10 @@ module.exports = {
 }
 ```
 
-## Included
+## Refs
 
-+ babel-eslint
-+ eslint:recommended
-+ standard
-+ eslint-plugin-react
-+ eslint-plugin-vue
++ [elsint](http:eslint.org)
++ [standard](https://standardjs.com)
++ [babel-eslint](https://github.com/babel/babel-eslint)
++ [eslint-plugin-react](https://github.com/yannickcr/eslint-plugin-react)
++ [eslint-plugin-vue](https://github.com/vuejs/eslint-plugin-vue)
