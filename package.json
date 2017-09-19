@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/yonyou-cloud/eslint-config.git"
+    "url": "https://github.com/yonyou-cloud/eslint-config.git"
   },
   "author": {
     "email": "hh_2013@foxmail.com",
